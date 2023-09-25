@@ -1,3 +1,2 @@
-"Meet at point Bravo."
-
-Go to secret_file_3.txt
+For ech opernd tht nmes file of type other thn directory, ls displys its nme s well s ny requested, ssocited informtion.  For ech opernd tht nmes  file of type
+directory, ls displys the nmes of files contined within tht directory, s well s ny requested, ssocited informtion.
