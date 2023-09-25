@@ -14,7 +14,9 @@ Mission 2:
 - Use cat to display the contents of s-1.txt.
 - Mission 2 Clue (write into codes.txt): "Mission 1 + Password:__ - en"
 
-
+Mission 3:
+- Display the contents of 3-2.txt.
+- Mission 3 Clue (write into codes.txt): "-letter missing"
 
 
 
@@ -25,3 +27,6 @@ Mentor Hints to give students (We are trying to spell out description)
 
 - Mission 2
 - d3s + encription - en = d3scription
+
+- Mission 3
+- -a
