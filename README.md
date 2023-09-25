@@ -36,3 +36,9 @@ Mentor Hints to give students (We are trying to spell out description for the ma
 
 - Mission 3
 - -a
+
+- Mission 4
+- man ls
+
+- Mission 5
+- ls -a
