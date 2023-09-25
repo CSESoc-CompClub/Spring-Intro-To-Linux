@@ -20,7 +20,7 @@ Mission 3:
 
 
 
-Mentor Hints to give students (We are trying to spell out description)
+Mentor Hints to give students (We are trying to spell out description for the manual and then have them type ls -a to show the secret file)
 - Mission 1 (d3s)
   - fill in the blanks (_)
   - look at the file names
