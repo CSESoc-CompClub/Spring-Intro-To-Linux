@@ -8,21 +8,20 @@ Mission 0: Enter the Vault and locate
 
 Mission 1: Locate Secret Files
 - List all the files including hidden ones in the ‘vault‘ directory to find the secret files
-- Your first clue will be _-3, _-2, _-1
+- Mission 1 Clue (write into codes.txt): " _-3, _-2, _-1 "
 
 Mission 2:
-- Use cat to display the contents of secret_file_1.txt.
-
-Mission 4: Uncover
-- Use cat to display the contents of secret_file_1.txt.
-
-Mission 5: Dig Deeper
-- Follow instructions of secret_file_1.txt.
-
-Mission 6
+- Use cat to display the contents of s-1.txt.
+- Mission 2 Clue (write into codes.txt): "Mission 1 + Password:__ - en"
 
 
-Mentor Hints
-- Mission 1
+
+
+
+Mentor Hints to give students (We are trying to spell out description)
+- Mission 1 (d3s)
   - fill in the blanks (_)
-- 
+  - look at the file names
+
+- Mission 2
+- d3s + encription - en = d3scription
