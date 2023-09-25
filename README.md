@@ -4,7 +4,7 @@ Repository containing exercises for Intro to Linux Commands (Spring Workshops 20
 Mission 0
 - Navigate into a secret directory called ‘vault’
 - Create a new directory named "safe_house" to keep your codes SAFE
-- Use cp to copy the codes.txt file from valut to safe_house
+- Use cp to copy the codes.txt file from vault to safe_house
 
 Mission 1
 - List all the files in the ‘vault‘ directory to find the secret files
