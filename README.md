@@ -1,7 +1,7 @@
 # Spring-Intro-To-Linux
 Repository containing exercises for Intro to Linux Commands (Spring Workshops 2023)
 
-Mission 1: Enter the Vault 
+Mission 1: Enter the Vault and locate 
 - Navigate into a secret directory called ‘vault’
 
 Mission 2: Locate Secret Files
