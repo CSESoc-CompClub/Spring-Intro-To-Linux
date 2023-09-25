@@ -21,7 +21,7 @@ Mission 3
 
 Mission 4
 - type in terminal woMAN LoveS cat
-- Use Mission 3 to determine the command
+- Use all clues so far to determine the command
 
 Mission 5
 - Locate the secret file by typing in terminal, limasierra -alpha
